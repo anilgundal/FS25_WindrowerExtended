@@ -1,0 +1,6 @@
+# Local/build artifacts
+*.log
+*_tmp_*/
+testResult_*.xml
+testResult_*.html
+.DS_Store
