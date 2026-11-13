@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="116">
+    <author>ANL Works</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Windrower Extended</en>
+    </title>
+    <description>
+        <tr><![CDATA[Windrower Extended, uyumlu mevcut namlu birleştiricilerinin MacDon Pack ile oluşturulan buğday, arpa, yulaf, kanola ve soya fasulyesi namlularını toplamasını ve birleştirmesini sağlar. Uyumlu bir ek mod bu malzeme türlerini sunuyorsa sorgum ve uzun taneli pirinç desteği de denenir. Çim, kuru ot ve saman desteği, orijinal çalışma alanları ve animasyonlar korunur. Yeni mağaza aracı eklenmez. Ek tuş gerekmez. PC/Mac; çok oyunculu seçenek açık, sunucu/istemci doğrulaması bekleniyor. Tahıl namluları için MacDon Pack gerekir.]]></tr>
+        <en><![CDATA[Windrower Extended lets compatible existing windrow mergers pick up and merge wheat, barley, oat, canola and soybean swaths created by the MacDon Pack. Optional sorghum and long-grain rice support is attempted if a compatible add-on registers those swath types. Existing grass, hay and straw support, work areas and animations remain unchanged. No duplicate store vehicles or additional hotkeys. PC/Mac; multiplayer is enabled but host/client verification is pending. MacDon Pack is required for grain swaths.]]></en>
+        <de><![CDATA[Windrower Extended ermöglicht kompatiblen vorhandenen Schwadzusammenführern, mit dem MacDon Pack erzeugte Schwade aus Weizen, Gerste, Hafer, Raps und Sojabohnen aufzunehmen und zusammenzuführen. Sorghum und Langkornreis werden optional unterstützt, sofern eine kompatible Erweiterung die entsprechenden Schwadtypen registriert. Gras-, Heu- und Strohnutzung sowie Arbeitsbereiche und Animationen bleiben unverändert. Keine zusätzlichen Fahrzeuge oder Tastenbelegungen. PC/Mac; Mehrspieler aktiviert, Host-/Client-Test noch ausstehend. Für Getreideschwade ist das MacDon Pack erforderlich.]]></de>
+    </description>
+    <iconFilename>icon_WindrowerExtended.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="scripts/WindrowerExtended.lua"/>
+    </extraSourceFiles>
+</modDesc>
