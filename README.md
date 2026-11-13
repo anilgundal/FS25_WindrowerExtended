@@ -6,7 +6,7 @@
 
 ## Türkçe
 
-**Windrower Extended**, MacDon Pack ile biçilen ve yere namlu halinde bırakılan tahıl ve yağlı tohumları, mevcut uyumlu çim/ot/saman namlu birleştirme makineleriyle bir araya getirmeyi sağlar.
+**Windrower Extended**, normalde çim, kuru ot ve saman namlularını birleştiren mevcut uyumlu makinelerin desteklediği ürünlere, MacDon Pack ile biçildikten sonra yere namlu halinde bırakılan **buğday, arpa, yulaf, kanola ve soya fasulyesini** ekler. Uyumlu ek modlar ilgili malzeme türlerini sağladığında **sorgum ve uzun taneli pirinç** de desteklenir. Yeni bir makine eklemez; oyundaki mevcut uyumlu namlu birleştiricilerle çalışır.
 
 MacDon ile oluşturulan ayrı mahsul namlularını hasattan önce daha az sayıda ve daha büyük namluda birleştirebilirsiniz. Bu yöntem, özellikle büyük hasat makineleriyle çalışırken dönüş ve geçiş sayısını azaltarak toplama sürecini daha pratik ve verimli hale getirmeyi amaçlar. Gerçek kazanım tarla düzenine ve kullanılan ekipmana bağlıdır.
 
@@ -20,7 +20,7 @@ Mod, mevcut makinelerin çalışma genişliklerini, animasyonlarını ve çim, k
 
 ## English
 
-**Windrower Extended** enables compatible existing grass, hay and straw windrow mergers to gather grain and oilseed swaths left on the ground by the MacDon Pack.
+**Windrower Extended** expands compatible existing windrow mergers—which normally handle grass, hay and straw—to also collect and merge **wheat, barley, oats, canola and soybean** swaths left by the MacDon Pack. **Sorghum and long-grain rice** are also supported when compatible add-ons register those swath fill types. It adds no new machinery and works with compatible existing windrow mergers.
 
 Instead of collecting every separate swath individually, players can merge swaths into fewer, larger rows before harvesting. This is particularly useful with large harvesting equipment, where reducing turns and field passes can make collection more practical and efficient. Actual benefits depend on field layout and equipment.
 
@@ -34,7 +34,7 @@ Existing working widths, animations and normal grass, hay and straw functions re
 
 ## Deutsch
 
-**Windrower Extended** ermöglicht es kompatiblen vorhandenen Schwadzusammenführern für Gras, Heu und Stroh, die mit dem MacDon Pack abgelegten Getreide- und Ölsaatschwade zusammenzuführen.
+**Windrower Extended** erweitert kompatible vorhandene Schwadzusammenführer, die normalerweise Gras, Heu und Stroh verarbeiten, um **Weizen-, Gersten-, Hafer-, Raps- und Sojabohnenschwade** aus dem MacDon Pack. **Sorghum und Langkornreis** werden ebenfalls unterstützt, wenn kompatible Erweiterungen die entsprechenden Schwad-Fülltypen registrieren. Es werden keine neuen Maschinen hinzugefügt; die Erweiterung funktioniert mit kompatiblen vorhandenen Schwadzusammenführern.
 
 Anstatt jeden Schwad einzeln aufzunehmen, können mehrere Schwade vor der Ernte zu weniger, größeren Reihen zusammengeführt werden. Besonders bei großen Erntemaschinen kann dies die Anzahl der Wendemanöver und Feldüberfahrten reduzieren und die Aufnahme erleichtern. Der tatsächliche Vorteil hängt von der Feldaufteilung und den Maschinen ab.
 
