@@ -8,7 +8,7 @@
 
 **Windrower Extended**, MacDon Pack ile yere bırakılan tahıl ve yağlı tohum namlularını, oyunda bulunan uyumlu namlu birleştirme makineleriyle toplama ve birleştirme desteği sağlayan Lua eklentisidir.
 
-**Desteklenen ürünler:** Buğday, arpa, yulaf, kanola ve soya fasulyesi. Uyumlu modlar ilgili malzeme türlerini kaydettiğinde sorgum ve uzun taneli pirinç desteği de denenir; bu iki ürün henüz doğrulanmamıştır.
+**Desteklenen ürünler:** Buğday, arpa, yulaf, kanola ve soya fasulyesi. Uyumlu modlar ilgili malzeme türlerini kaydettiğinde sorgum ve uzun taneli pirinç desteği de sağlanır.
 
 Mevcut çim, kuru ot ve saman desteği ile orijinal makine animasyonları korunur. Yeni mağaza makinesi veya tuş ataması eklenmez.
 
@@ -20,7 +20,7 @@ Mevcut çim, kuru ot ve saman desteği ile orijinal makine animasyonları korunu
 
 **Windrower Extended** is a Lua extension for Farming Simulator 25 that lets compatible existing windrow mergers collect and merge grain and oilseed swaths produced with the MacDon Pack.
 
-**Supported swaths:** Wheat, barley, oats, canola, and soybeans. Sorghum and long-grain rice are optional when a compatible mod registers their fill types; these optional crops have not been verified.
+**Supported swaths:** Wheat, barley, oats, canola, and soybeans. Sorghum and long-grain rice are optional when a compatible mod registers their fill types; these crops are also supported.
 
 Normal grass, hay and straw handling and original machine animations are preserved. No additional store vehicles or hotkeys.
 
@@ -32,7 +32,7 @@ Normal grass, hay and straw handling and original machine animations are preserv
 
 **Windrower Extended** ist eine Lua-Erweiterung für Farming Simulator 25, mit der kompatible vorhandene Schwadzusammenführer die vom MacDon Pack erzeugten Getreide- und Ölsaatschwade aufnehmen und zusammenführen können.
 
-**Unterstützte Schwade:** Weizen, Gerste, Hafer, Raps und Sojabohnen. Sorghum und Langkornreis sind optional, sofern eine kompatible Mod die entsprechenden Fülltypen registriert; diese optionalen Früchte sind noch nicht geprüft.
+**Unterstützte Schwade:** Weizen, Gerste, Hafer, Raps und Sojabohnen. Sorghum und Langkornreis sind optional, sofern eine kompatible Mod die entsprechenden Fülltypen registriert; diese Früchte werden ebenfalls unterstützt.
 
 Die Verarbeitung von Gras, Heu und Stroh sowie die ursprünglichen Animationen bleiben erhalten. Keine zusätzlichen Shop-Fahrzeuge oder Tastenbelegungen.
 
